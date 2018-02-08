@@ -1,0 +1,32 @@
+{
+
+"favThings": [
+  {
+    "description": " Cute Animal ",
+    "name": " Cat ",
+    "pic": " cat.jpg "
+  },
+  {
+    "description": " Wolflike ",
+    "name": " Dog ",
+    "pic": "dog.jpg"
+  },
+  {
+    "description": " Good Food ",
+    "name": " Pizza ",
+    "pic": "pizza.jpg"
+  },
+  {
+    "description": " Energizing Drink ",
+    "name": " Coffee ",
+    "pic": "coffee.jpg"
+  },
+  {
+    "description": " Useful Devise ",
+    "name": " Computers ",
+    "pic": "computer.jpg"
+  }
+
+  ]
+
+}
